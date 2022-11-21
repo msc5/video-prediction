@@ -1,5 +1,5 @@
-# Sequence and Video Prediction with Convolutional LSTMs
+# Video Prediction with Convolutional LSTMs
 
-Junior year independent work project at Princeton
-by Matthew Coleman
+By Matthew Coleman
 
+![Project Report](media/report/build/main.pdf)
