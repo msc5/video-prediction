@@ -1,0 +1,8 @@
+MNIST/
+raw/
+**/__pycache__/
+results/
+results_old*
+slurm/
+slurm*
+**old*/
